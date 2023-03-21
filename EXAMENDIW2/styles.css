@@ -1,0 +1,4 @@
+section#tabla div.col-12{
+    max-height:50vh;
+    overflow-y:scroll;
+  }
